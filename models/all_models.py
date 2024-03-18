@@ -1,0 +1,1 @@
+from models.barbie_models import barbieModel
